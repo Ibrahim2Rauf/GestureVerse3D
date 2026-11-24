@@ -1,0 +1,12 @@
+build/
+cmake-build-*/
+.vs/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+*.exe
+*.dll
